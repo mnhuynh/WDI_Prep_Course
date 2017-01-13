@@ -1,0 +1,16 @@
+span 
+{display: inline-block;
+background-color: red;
+width:150px;
+height:150px;
+margin-right: 20px;
+margin-bottom: 20px;}
+
+div
+{height: 170px;}
+
+.display {display: inline-block;}
+
+.float {float: inline-start;}
+
+.position {position: relative;}

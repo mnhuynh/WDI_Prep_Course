@@ -5,13 +5,17 @@ function ask(){
     var choice = Math.floor(Math.random() * numberofreplys +1);
     var reply = ['Yes', 'No', 'Maybe'];
 
-if (choice == 1){
+switch(choice){
+    case 1:
     console.log('Yes');
-} else if (choice == 2) {
+    break;
+    case 2:
     console.log('No');
-} else {console.log('Maybe');
-    
+    break;
+    default:
+    console.log('Maybe');
 }
+
 
     console.log(choice);
 }

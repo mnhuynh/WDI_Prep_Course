@@ -1,0 +1,23 @@
+.dotted{color: white;
+background-color: gray;
+width: 200px;
+padding: 10px 20px;
+border: 2px dotted white;} 
+
+.overlap{color: white;
+background-color: gray;
+margin-top: 30px;
+width: 200px;
+padding: 10px 20px;
+border: 2px dotted white;} 
+
+.solid{background-color: lightgray;
+width: 400px;
+padding: 10px;
+border: 3px solid lightgray}
+
+.second{background-color: lightgray;
+margin-top: 30px;
+width: 400px;
+padding: 10px;
+border: 3px solid lightgray}
